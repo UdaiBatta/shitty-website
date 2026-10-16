@@ -1,0 +1,763 @@
+[
+  {
+    "title": "COO OF FUCKERY",
+    "department": "Executive Chaos Operations",
+    "salary": "₹9 Crore + Unlimited Nonsense",
+    "lpa": 900,
+    "experience": 0,
+    "requirements": [
+      "Report directly to Udai Batta, the best boss in the universe.",
+      "Turn pointless corporate chaos into spectacularly organized fuckery.",
+      "Protect the team from unnecessary meetings and HR nonsense.",
+      "Keep Sir Spuddington supplied with tiny executive sandwiches."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "1,11,030",
+    "sort_order": 0
+  },
+  {
+    "title": "FUCKERY POTTER LIKE HARRY POTTER",
+    "department": "Magical Fuckery Operations",
+    "salary": "₹7.7 Crore + One Suspicious Wand",
+    "lpa": 770,
+    "experience": 0,
+    "requirements": [
+      "Cast Expelli-meeting-us on pointless calendar invites.",
+      "Fix broken spreadsheets by whispering dramatically at a wand-shaped pen.",
+      "Defeat the Dark Lord of Reply All before lunch."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "1,12,417",
+    "sort_order": 1
+  },
+  {
+    "title": "BITCHY MANAGER",
+    "department": "Morale & Mild Menace",
+    "salary": "₹6.6 Crore + Unlimited Side-Eye",
+    "lpa": 660,
+    "experience": 2,
+    "requirements": [
+      "Deliver “per my last email” with award-winning theatrical precision.",
+      "Manage petty office drama without annoying the actual team.",
+      "Maintain strong opinions about the office mug situation."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "1,13,804",
+    "sort_order": 2
+  },
+  {
+    "title": "VP OF PROFESSIONAL BULLSHIT",
+    "department": "Strategic Nonsense",
+    "salary": "₹5.5 Crore + Gold-Plated Buzzwords",
+    "lpa": 550,
+    "experience": 0,
+    "requirements": [
+      "Present a pie chart with no labels and unreasonable confidence.",
+      "Translate synergy into absolutely no useful information.",
+      "Know when Udai says enough nonsense and sends everyone home."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Expert",
+    "damage": "Manageable",
+    "printer": "Yes",
+    "applicants": "1,15,191",
+    "sort_order": 3
+  },
+  {
+    "title": "DIRECTOR OF STRATEGIC SHITSHOWS",
+    "department": "Disaster Coordination",
+    "salary": "₹8 Crore + Emergency Popcorn",
+    "lpa": 800,
+    "experience": 3,
+    "requirements": [
+      "Turn an office printer incident into a cinematic event.",
+      "Keep the team calm while the presentation catches metaphorical fire.",
+      "Produce a disaster recovery plan consisting entirely of sandwiches."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "1,16,578",
+    "sort_order": 4
+  },
+  {
+    "title": "SENIOR MANAGER OF ABSOLUTELY NOTHING",
+    "department": "Executive Fog",
+    "salary": "₹4.4 Crore + 400 Days of Looking Busy",
+    "lpa": 440,
+    "experience": 0,
+    "requirements": [
+      "Schedule meetings to decide whether meetings are necessary.",
+      "Use “circle back” as both greeting and farewell.",
+      "Master the art of opening eighteen tabs without doing anything."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "1,17,965",
+    "sort_order": 5
+  },
+  {
+    "title": "CHIEF BAD IDEA OFFICER",
+    "department": "Questionable Innovation",
+    "salary": "₹9.9 Crore + Unlimited Terrible Pitches",
+    "lpa": 990,
+    "experience": 0,
+    "requirements": [
+      "Pitch a blockchain-powered office stapler with a straight face.",
+      "Explain why the company needs a corporate emotional-support dragon.",
+      "Accept that Sir Spuddington has final approval on all bad ideas."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "1,19,352",
+    "sort_order": 6
+  },
+  {
+    "title": "Senior Sandwich Engineer",
+    "department": "Advanced Bread Technologies",
+    "salary": "₹90 LPA + Unlimited Chutney",
+    "lpa": 90,
+    "experience": 5,
+    "requirements": [
+      "5+ years in bread-oriented environments.",
+      "Resolve critical chutney incidents through multithreaded mayonnaise distribution.",
+      "Architect cucumber load balancing and cross-functional toast alignment."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "69,420",
+    "sort_order": 7
+  },
+  {
+    "title": "Grand Master of Rebooting Wi-Fi Routers",
+    "department": "Cloud Infrastructure & Spiritual Networking",
+    "salary": "₹1.2 Crore + Free Ethernet Cable",
+    "lpa": 120,
+    "experience": 10,
+    "requirements": [
+      "Must unplug a router and wait precisely 10 seconds before plugging it back in.",
+      "PhD in blinking red lights and negotiating with angry printers.",
+      "Drive transformational off-and-on deliverables across the cloud."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "70,807",
+    "sort_order": 8
+  },
+  {
+    "title": "Chief Executive of Doing Absolutely Nothing",
+    "department": "Executive Leadership",
+    "salary": "₹7.8 Crore + 400 Days Paid Leave",
+    "lpa": 780,
+    "experience": 0,
+    "requirements": [
+      "Look busy during meetings and say “Let’s circle back.”",
+      "Confidently ask questions that were already answered.",
+      "Schedule meetings that could have been emails."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "72,194",
+    "sort_order": 9
+  },
+  {
+    "title": "Principal PDF to Word Conversion Architect",
+    "department": "Enterprise Document Warfare",
+    "salary": "₹65 LPA",
+    "lpa": 65,
+    "experience": 9,
+    "requirements": [
+      "Nine years of CTRL+C and CTRL+V experience.",
+      "Right-click files while maintaining executive composure.",
+      "Make tables disappear mysteriously and blame the original document."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Expert",
+    "damage": "Manageable",
+    "printer": "Yes",
+    "applicants": "73,581",
+    "sort_order": 10
+  },
+  {
+    "title": "AI Prompt Janitor III",
+    "department": "Artificial Intelligence Waste Management",
+    "salary": "₹2 Crore + ChatGPT Plus Subscription",
+    "lpa": 200,
+    "experience": 3,
+    "requirements": [
+      "Clean up terrible AI-generated content.",
+      "Apologize to humans and tell AI to stop using em dashes.",
+      "Know the phrase “As a large language model” against your better judgment."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "74,968",
+    "sort_order": 11
+  },
+  {
+    "title": "Vice President of Printer Exorcism",
+    "department": "Paranormal IT Services",
+    "salary": "₹4 Crore + Holy Water Allowance",
+    "lpa": 400,
+    "experience": 8,
+    "requirements": [
+      "Remove paper jams through spiritual intervention.",
+      "Understand why printers are always angry.",
+      "Survive encounters with cursed office hardware."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "76,355",
+    "sort_order": 12
+  },
+  {
+    "title": "Director of LinkedIn Motivational Posting",
+    "department": "Corporate Inspiration",
+    "salary": "₹95 LPA + 1 Million Impressions",
+    "lpa": 95,
+    "experience": 1,
+    "requirements": [
+      "Start every post with “I am humbled.”",
+      "Turn ordering coffee into a leadership lesson.",
+      "End every post with “Agree?” and manufacture household inspiration."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "77,742",
+    "sort_order": 13
+  },
+  {
+    "title": "Senior Meeting Unmuting Specialist",
+    "department": "Unified Communications",
+    "salary": "₹80 LPA",
+    "lpa": 80,
+    "experience": 4,
+    "requirements": [
+      "Say “You’re on mute” in 14 languages.",
+      "Ask “Can everyone see my screen?” with authority.",
+      "Survive awkward silence while optimizing audio synergies."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "79,129",
+    "sort_order": 14
+  },
+  {
+    "title": "Quantum Stapler Technician",
+    "department": "Experimental Office Physics",
+    "salary": "₹5 Crore + Stationery",
+    "lpa": 500,
+    "experience": 7,
+    "requirements": [
+      "Staple documents in multiple dimensions.",
+      "Know where the office stapler went.",
+      "Demonstrate theoretical paper experience."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "80,516",
+    "sort_order": 15
+  },
+  {
+    "title": "Chief Vibe Officer",
+    "department": "Vibes and Strategic Alignment",
+    "salary": "₹3 Crore",
+    "lpa": 300,
+    "experience": 0,
+    "requirements": [
+      "Detect bad vibes during quarterly reviews.",
+      "Strong vibe comprehension and synergy identification.",
+      "Translate strategic vibes into vaguely measurable deliverables."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Expert",
+    "damage": "Manageable",
+    "printer": "Yes",
+    "applicants": "81,903",
+    "sort_order": 16
+  },
+  {
+    "title": "Remote Office Chair Durability Tester",
+    "department": "Furniture Resilience",
+    "salary": "₹72 LPA + Seat Cushion",
+    "lpa": 72,
+    "experience": 2,
+    "requirements": [
+      "Demonstrate 2+ years of expertise in furniture resilience.",
+      "Optimize remote office chair durability tester deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "83,290",
+    "sort_order": 17
+  },
+  {
+    "title": "Director of Turning Things Off and On Again",
+    "department": "Device Resurrection",
+    "salary": "₹1.5 Crore + Power Strip",
+    "lpa": 150,
+    "experience": 12,
+    "requirements": [
+      "Demonstrate 12+ years of expertise in device resurrection.",
+      "Optimize director of turning things off and on again deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "84,677",
+    "sort_order": 18
+  },
+  {
+    "title": "Professional CAPTCHA Solver",
+    "department": "Human Verification",
+    "salary": "₹45 LPA + Traffic Lights",
+    "lpa": 45,
+    "experience": 0,
+    "requirements": [
+      "Demonstrate 0+ years of expertise in human verification.",
+      "Optimize professional captcha solver deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "86,064",
+    "sort_order": 19
+  },
+  {
+    "title": "Head of Unnecessary Meetings",
+    "department": "Calendar Congestion",
+    "salary": "₹1.9 Crore + 19 Calendars",
+    "lpa": 190,
+    "experience": 6,
+    "requirements": [
+      "Demonstrate 6+ years of expertise in calendar congestion.",
+      "Optimize head of unnecessary meetings deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "87,451",
+    "sort_order": 20
+  },
+  {
+    "title": "Principal Spreadsheet Cell Colorist",
+    "department": "Strategic Formatting",
+    "salary": "₹88 LPA + Yellow Cells",
+    "lpa": 88,
+    "experience": 9,
+    "requirements": [
+      "Demonstrate 9+ years of expertise in strategic formatting.",
+      "Optimize principal spreadsheet cell colorist deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "88,838",
+    "sort_order": 21
+  },
+  {
+    "title": "Senior Cloud Whisperer",
+    "department": "Meteorological Infrastructure",
+    "salary": "₹2.2 Crore + Umbrella",
+    "lpa": 220,
+    "experience": 5,
+    "requirements": [
+      "Demonstrate 5+ years of expertise in meteorological infrastructure.",
+      "Optimize senior cloud whisperer deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Expert",
+    "damage": "Manageable",
+    "printer": "Yes",
+    "applicants": "90,225",
+    "sort_order": 22
+  },
+  {
+    "title": "Certified Corporate Apology Generator",
+    "department": "Reputation Disposal",
+    "salary": "₹60 LPA + Regret",
+    "lpa": 60,
+    "experience": 3,
+    "requirements": [
+      "Demonstrate 3+ years of expertise in reputation disposal.",
+      "Optimize certified corporate apology generator deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "91,612",
+    "sort_order": 23
+  },
+  {
+    "title": "Junior Vice President of Senior Management",
+    "department": "Hierarchy Engineering",
+    "salary": "₹3.7 Crore + Title",
+    "lpa": 370,
+    "experience": 0,
+    "requirements": [
+      "Demonstrate 0+ years of expertise in hierarchy engineering.",
+      "Optimize junior vice president of senior management deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "92,999",
+    "sort_order": 24
+  },
+  {
+    "title": "International Excel Formula Archaeologist",
+    "department": "Ancient Spreadsheet Studies",
+    "salary": "₹1.6 Crore + Excavation Brush",
+    "lpa": 160,
+    "experience": 15,
+    "requirements": [
+      "Demonstrate 15+ years of expertise in ancient spreadsheet studies.",
+      "Optimize international excel formula archaeologist deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "94,386",
+    "sort_order": 25
+  },
+  {
+    "title": "Chief Refrigerator Inventory Officer",
+    "department": "Strategic Lunch Procurement",
+    "salary": "₹95 LPA + Unclaimed Yogurt",
+    "lpa": 95,
+    "experience": 2,
+    "requirements": [
+      "Demonstrate 2+ years of expertise in strategic lunch procurement.",
+      "Optimize chief refrigerator inventory officer deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "95,773",
+    "sort_order": 26
+  },
+  {
+    "title": "Principal Keyboard Crumb Investigator",
+    "department": "Office Forensics",
+    "salary": "₹69 LPA + Magnifying Glass",
+    "lpa": 69,
+    "experience": 4,
+    "requirements": [
+      "Demonstrate 4+ years of expertise in office forensics.",
+      "Optimize principal keyboard crumb investigator deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "97,160",
+    "sort_order": 27
+  },
+  {
+    "title": "Executive Water Bottle Refilling Consultant",
+    "department": "Hydration Strategy",
+    "salary": "₹55 LPA + Tap Water",
+    "lpa": 55,
+    "experience": 0,
+    "requirements": [
+      "Demonstrate 0+ years of expertise in hydration strategy.",
+      "Optimize executive water bottle refilling consultant deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Expert",
+    "damage": "Manageable",
+    "printer": "Yes",
+    "applicants": "98,547",
+    "sort_order": 28
+  },
+  {
+    "title": "Global Director of Reply-All Accidents",
+    "department": "Communication Disasters",
+    "salary": "₹4.2 Crore + 9,000 Unread Emails",
+    "lpa": 420,
+    "experience": 7,
+    "requirements": [
+      "Demonstrate 7+ years of expertise in communication disasters.",
+      "Optimize global director of reply-all accidents deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "99,934",
+    "sort_order": 29
+  },
+  {
+    "title": "Senior Password Reset Philosopher",
+    "department": "Existential Authentication",
+    "salary": "₹1.1 Crore + Security Question",
+    "lpa": 110,
+    "experience": 5,
+    "requirements": [
+      "Demonstrate 5+ years of expertise in existential authentication.",
+      "Optimize senior password reset philosopher deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "1,01,321",
+    "sort_order": 30
+  },
+  {
+    "title": "Assistant to the Regional Assistant to the Assistant",
+    "department": "Recursive Management",
+    "salary": "₹42 LPA + Another Assistant",
+    "lpa": 42,
+    "experience": 1,
+    "requirements": [
+      "Demonstrate 1+ years of expertise in recursive management.",
+      "Optimize assistant to the regional assistant to the assistant deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Expert",
+    "damage": "Severe",
+    "printer": "Yes",
+    "applicants": "1,02,708",
+    "sort_order": 31
+  },
+  {
+    "title": "Director of Looking Extremely Busy on Teams",
+    "department": "Availability Theater",
+    "salary": "₹1.8 Crore + Green Dot",
+    "lpa": 180,
+    "experience": 6,
+    "requirements": [
+      "Demonstrate 6+ years of expertise in availability theater.",
+      "Optimize director of looking extremely busy on teams deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "1,04,095",
+    "sort_order": 32
+  },
+  {
+    "title": "Chief Officer of Saying “Noted”",
+    "department": "Acknowledgement Operations",
+    "salary": "₹2.5 Crore + One Word",
+    "lpa": 250,
+    "experience": 0,
+    "requirements": [
+      "Demonstrate 0+ years of expertise in acknowledgement operations.",
+      "Optimize chief officer of saying “noted” deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "1,05,482",
+    "sort_order": 33
+  },
+  {
+    "title": "Senior PowerPoint Transition Engineer",
+    "department": "Presentation Pyrotechnics",
+    "salary": "₹85 LPA + Star Wipe",
+    "lpa": 85,
+    "experience": 8,
+    "requirements": [
+      "Demonstrate 8+ years of expertise in presentation pyrotechnics.",
+      "Optimize senior powerpoint transition engineer deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Expert",
+    "damage": "Manageable",
+    "printer": "Yes",
+    "applicants": "1,06,869",
+    "sort_order": 34
+  },
+  {
+    "title": "Wi-Fi Password Distribution Specialist",
+    "department": "Password Diplomacy",
+    "salary": "₹40 LPA + Router Sticker",
+    "lpa": 40,
+    "experience": 1,
+    "requirements": [
+      "Demonstrate 1+ years of expertise in password diplomacy.",
+      "Optimize wi-fi password distribution specialist deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "Hybrid",
+    "employment_type": "Full-time / emotionally part-time",
+    "vibe": "Questionable",
+    "sandwich": "Beginner",
+    "damage": "Severe",
+    "printer": "No",
+    "applicants": "1,08,256",
+    "sort_order": 35
+  },
+  {
+    "title": "Head of Strategic Lunch Procurement",
+    "department": "Strategic Lunch Procurement",
+    "salary": "₹1.7 Crore + Lunch",
+    "lpa": 170,
+    "experience": 3,
+    "requirements": [
+      "Demonstrate 3+ years of expertise in strategic lunch procurement.",
+      "Optimize head of strategic lunch procurement deliverables with unreasonable confidence.",
+      "Present a 48-slide roadmap for an issue that takes ten seconds to solve.",
+      "Accept blame for unrelated printer incidents and circle back enthusiastically."
+    ],
+    "location": "On-site",
+    "employment_type": "Full-time",
+    "vibe": "Immaculate",
+    "sandwich": "Beginner",
+    "damage": "Manageable",
+    "printer": "No",
+    "applicants": "1,09,643",
+    "sort_order": 36
+  }
+]
