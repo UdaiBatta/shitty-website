@@ -13,7 +13,7 @@ from .models import Job
 class CareersSiteTests(TestCase):
     def setUp(self):
         self.active = Job.objects.create(
-            title="COO OF FUCKERY", department="Executive Chaos Operations",
+            title="Test chaos coordinator", department="Test Operations",
             salary="₹9 Crore + Unlimited Nonsense", lpa=900, experience=0,
             requirements=["Cause a fictional amount of chaos."], location="Remote",
             vibe="Questionable", sandwich="Expert", damage="Severe", printer="Yes",
@@ -27,6 +27,11 @@ class CareersSiteTests(TestCase):
     def test_home_serves_existing_careers_page(self):
         response = self.client.get(reverse("home"))
         self.assertContains(response, "Udai Batta")
+        self.assertContains(response, "Ayush Sharma")
+        self.assertContains(response, 'id="hero-coo"')
+        self.assertContains(response, "SECOND-BEST BOSS AFTER UDAI")
+        self.assertContains(response, "CO-FOUNDER &amp; CHIEF OPERATING OFFICER")
+        self.assertContains(response, "static/jobs/assets/ayush-sharma.png")
         self.assertContains(response, "A fictional careers portal")
 
     def test_api_returns_active_editable_listing_fields_without_applicant_data(self):
@@ -69,12 +74,13 @@ class CareersSiteTests(TestCase):
 class SeedJobsCommandTests(TestCase):
     def test_seed_runs_once_and_preserves_admin_edits(self):
         call_command("seed_jobs", stdout=StringIO())
-        self.assertEqual(Job.objects.count(), 37)
+        self.assertEqual(Job.objects.count(), 35)
         featured = Job.objects.first()
-        self.assertEqual(featured.title, "COO OF FUCKERY")
+        self.assertEqual(featured.title, "BITCHY MANAGER")
+        self.assertFalse(Job.objects.filter(title__in=["COO OF FUCKERY", "FUCKERY POTTER LIKE HARRY POTTER"]).exists())
 
         featured.title = "Admin-edited listing"
         featured.save()
         call_command("seed_jobs", stdout=StringIO())
-        self.assertEqual(Job.objects.count(), 37)
+        self.assertEqual(Job.objects.count(), 35)
         self.assertEqual(Job.objects.get(pk=featured.pk).title, "Admin-edited listing")

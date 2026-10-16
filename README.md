@@ -13,7 +13,7 @@ python -m pip install -r requirements.txt
 python manage.py migrate
 python manage.py seed_jobs
 python manage.py createsuperuser
-python manage.py runserver
+python -m uvicorn careers_project.asgi:application --reload
 ```
 
 Open `http://127.0.0.1:8000/` for the site and `/admin/` to manage job listings. SQLite is used locally. Set `DATABASE_URL` to a PostgreSQL connection URL to use PostgreSQL instead.
@@ -27,7 +27,7 @@ The GitHub Pages copy stays available at [udaibatta.github.io/shitty-website](ht
 3. Wait for the Render deploy to pass its `/api/health/` health check, then open the service's `onrender.com` address. The website fetches listings from Django; the GitHub Pages copy keeps its built-in listing snapshot.
 4. Open Render's service shell and run `python manage.py createsuperuser` once. Sign in at `/admin/` to add, edit, hide, search, and reorder the listings.
 
-The first deployment requires `DATABASE_URL` and seeds the 37 fictional listings only when the database is empty. Later starts preserve edits made in the admin. No database password or Django secret belongs in Git; Render generates the Django secret, and Neon supplies the database URL privately. Free Render services sleep when idle and can take about a minute to wake. Check both providers' current free-plan limits before publishing the backend URL.
+The first deployment requires `DATABASE_URL` and seeds the 35 fictional listings only when the database is empty. Later starts preserve edits made in the admin. No database password or Django secret belongs in Git; Render generates the Django secret, and Neon supplies the database URL privately. Free Render services sleep when idle and can take about a minute to wake. Check both providers' current free-plan limits before publishing the backend URL.
 
 ## Checks
 
