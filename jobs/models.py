@@ -33,3 +33,43 @@ class Job(models.Model):
 
     def __str__(self):
         return self.title
+
+
+class AnalyticsEvent(models.Model):
+    EVENT_TYPES = [
+        ("section", "Section opened"),
+        ("filter", "Categorical filter selected"),
+        ("job_view", "Job opened"),
+        ("application", "Application step"),
+        ("choice", "Application choice selected"),
+        ("offer", "Offer action"),
+    ]
+
+    visitor_id = models.UUIDField(db_index=True)
+    event_type = models.CharField(max_length=20, choices=EVENT_TYPES)
+    event_value = models.CharField(max_length=120)
+    created_at = models.DateTimeField(auto_now_add=True, db_index=True)
+
+    class Meta:
+        ordering = ["-created_at"]
+        verbose_name = "anonymous analytics event"
+        verbose_name_plural = "anonymous analytics events"
+
+    def __str__(self):
+        return f"{self.event_type}: {self.event_value}"
+
+
+class GuestbookEntry(models.Model):
+    author_name = models.CharField(max_length=50)
+    message = models.TextField(max_length=250)
+    is_visible = models.BooleanField(default=True)
+    is_sample = models.BooleanField(default=False)
+    created_at = models.DateTimeField(auto_now_add=True, db_index=True)
+
+    class Meta:
+        ordering = ["-created_at", "-id"]
+        verbose_name = "guestbook entry"
+        verbose_name_plural = "guestbook entries"
+
+    def __str__(self):
+        return f"{self.author_name}: {self.message[:60]}"
