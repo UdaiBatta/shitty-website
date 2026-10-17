@@ -1,0 +1,18 @@
+[build]
+command = "npm run build:netlify"
+publish = "public"
+
+[functions]
+directory = "netlify/functions"
+
+[[redirects]]
+from = "/api/guestbook/"
+to = "/.netlify/functions/guestbook"
+status = 200
+force = true
+
+[[redirects]]
+from = "/api/guestbook"
+to = "/.netlify/functions/guestbook"
+status = 200
+force = true

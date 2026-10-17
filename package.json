@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:netlify": "node scripts/build-netlify.mjs",
+    "test:guestbook": "node --test tests/guestbook.test.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.4"
+  }
+}
