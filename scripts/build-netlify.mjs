@@ -6,3 +6,7 @@ await copyFile(
   "jobs/static/jobs/assets/ayush-sharma.png",
   "public/static/jobs/assets/ayush-sharma.png",
 );
+await copyFile(
+  "jobs/static/jobs/assets/company-share-card.png",
+  "public/static/jobs/assets/company-share-card.png",
+);
